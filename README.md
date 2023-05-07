@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently studying at [Buenos Aires Institute of Technology (ITBA)](https://www.itba.edu.ar/)
 
-- 📫 Email to reach me **nicolasrampoldi@gmail.com*
+- 📫 Email to reach me **nicolasrampoldi@gmail.com**
